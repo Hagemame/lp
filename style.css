@@ -189,6 +189,10 @@ border-bottom:3px solid #FF4546;
   height:auto;
 }
 
+.pic>img{
+  height:auto;
+}
+
 .img2{
   max-width: 100%;
   height:auto;

@@ -190,6 +190,7 @@ border-bottom:3px solid #FF4546;
 }
 
 .pic>img{
+  width:auto;
   height:auto;
 }
 

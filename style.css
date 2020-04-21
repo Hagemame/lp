@@ -311,7 +311,7 @@ footer{
   font-size: 25px;
 }
 
-@media (max-width:1230px) and (min-width:971px) {
+@media (max-width:1230px) {
 .content{
   display: inline-block;
 }
@@ -326,7 +326,7 @@ footer{
 
 }
 
-@media (max-width:970px) and (min-width:761px){
+@media (max-width:970px)　{
 .topbtn{
   padding: 5px 10px;
 }
